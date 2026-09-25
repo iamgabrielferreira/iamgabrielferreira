@@ -12,6 +12,11 @@ base como desenvolvedor backend através de projetos práticos, não só teoria.
 
 ### 🚀 Projetos em destaque
 
+
+- **[Porquinho](https://github.com/iamgabrielferreira/porquinho.git)**
+- Projeto pessoal iniciado após concluir o curso de Java para iniciantes (Curso em Vídeo, Gustavo Guanabara).
+-  Um sistema de controle financeiro via terminal que evolui junto com meus estudos —
+-  cada versão introduz um novo conceito, do Java básico até Spring Boot e API REST.
 - **[java-practice](https://github.com/gferreirad321-arch/java-practice)** 
   — Projetos e exercícios em Java, incluindo um sistema de Controle de 
   Gastos com Scanner, ArrayList e organização em múltiplas classes.
