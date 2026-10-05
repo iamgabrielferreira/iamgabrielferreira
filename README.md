@@ -8,7 +8,7 @@ base como desenvolvedor backend através de projetos práticos, não só teoria.
 - 🌱 Aprendendo por conta própria, com foco em consolidar lógica de 
   programação antes de avançar pra frameworks e ferramentas mais complexas
 - 🎯 Objetivo: consolidar uma base sólida em backend e evoluir para 
-  vagas de desenvolvedor júnior
+  vagas de estágio em desenvolvimento
 
 ### 🚀 Projetos em destaque
 
