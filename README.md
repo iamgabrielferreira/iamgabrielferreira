@@ -3,7 +3,7 @@
 Estudante de Análise e Desenvolvimento de Sistemas, construindo minha 
 base como desenvolvedor backend através de projetos práticos, não só teoria.
 
-- 🔭 Atualmente estudando **Java, POO e SQL**
+- 🔭 Atualmente estudando **Java e SQL**
 - 💻 Também tenho experiência prática em **Python**
 - 🌱 Aprendendo por conta própria, com foco em consolidar lógica de 
   programação antes de avançar pra frameworks e ferramentas mais complexas
